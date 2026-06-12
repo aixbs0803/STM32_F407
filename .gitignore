@@ -2,9 +2,10 @@
 *.bat
 # 忽略所有文件夹
 .git/
-Output
+Output/
 .vs/
-.vscode/# Prerequisites
+.vscode/
+# Prerequisites
 *.d
 
 # Object files
