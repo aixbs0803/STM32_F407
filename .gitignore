@@ -1,0 +1,7 @@
+# 忽略所有.bat文件
+*.bat
+# 忽略所有文件夹
+.git/
+Output/
+.vs/
+.vscode/
